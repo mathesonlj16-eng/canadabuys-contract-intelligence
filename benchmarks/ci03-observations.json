@@ -1,0 +1,414 @@
+[
+  {
+    "ocid": "ocds-ec9k95-20177056",
+    "url": "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=71462f50-801c-4342-98dd-0dd045cd827c",
+    "http": 200,
+    "ref": "20177056",
+    "status": "Publié",
+    "deadline": "2026-11-12 Au plus tard 11:00 Heure légale du Québec",
+    "published": "2026-10-16 10:53:13 Heure légale du Québec",
+    "observed_utc": "2026-11-11T06:43:30+00:00",
+    "addenda": []
+  },
+  {
+    "ocid": "ocds-ec9k95-20175782",
+    "url": "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=0b0c2889-0863-4f10-ad41-64d4b3c5406e",
+    "http": 200,
+    "ref": "20175782",
+    "status": "Publié",
+    "deadline": "2026-11-12 Avant 11:00 Heure légale du Québec",
+    "published": "2026-10-09 09:00:57 Heure légale du Québec",
+    "observed_utc": "2026-11-11T06:43:30+00:00",
+    "addenda": [
+      {
+        "title": "Addenda _01 MEC",
+        "type": "Amendement",
+        "published_local": "2026-10-28 13:04:35"
+      },
+      {
+        "title": "Addenda 2",
+        "type": "Amendement",
+        "published_local": "2026-10-29 15:32:56"
+      },
+      {
+        "title": "Addenda 3",
+        "type": "Amendement",
+        "published_local": "2026-10-30 14:12:35"
+      },
+      {
+        "title": "Addenda 4",
+        "type": "Questions/Réponses",
+        "published_local": "2026-11-04 13:36:19"
+      },
+      {
+        "title": "Addenda 03-Méc_Élec",
+        "type": "Amendement",
+        "published_local": "2026-11-04 13:38:50"
+      },
+      {
+        "title": "Addenda 5",
+        "type": "Questions/Réponses",
+        "published_local": "2026-11-04 15:23:38"
+      },
+      {
+        "title": "Addenda 6",
+        "type": "Questions/Réponses",
+        "published_local": "2026-11-06 14:41:57"
+      },
+      {
+        "title": "Addenda 04-MÉC_Élec",
+        "type": "Amendement",
+        "published_local": "2026-11-06 14:44:12"
+      },
+      {
+        "title": "Addenda 7",
+        "type": "Questions/Réponses",
+        "published_local": "2026-11-09 15:12:20"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-ec9k95-20171444",
+    "url": "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=962e9257-4209-46df-8c3f-3b4477abd8b8",
+    "http": 200,
+    "ref": "20171444",
+    "status": "Publié",
+    "deadline": "2026-11-12 Au plus tard 11:00 Heure légale du Québec",
+    "published": "2026-09-17 08:23:51 Heure légale du Québec",
+    "observed_utc": "2026-11-11T06:43:29+00:00",
+    "addenda": []
+  },
+  {
+    "ocid": "ocds-ec9k95-20176161",
+    "url": "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=984afb18-4bfb-4c0c-8f85-c09dd2e4be4e",
+    "http": 200,
+    "ref": "20176161",
+    "status": "Publié",
+    "deadline": "2026-11-17 Au plus tard 15:00 Heure légale du Québec",
+    "published": "2026-10-13 13:56:37",
+    "observed_utc": "2026-11-11T06:43:32+00:00",
+    "addenda": [
+      {
+        "title": "Addenda 1",
+        "type": "Amendement",
+        "published_local": "2026-10-21 14:47:11"
+      },
+      {
+        "title": "Addenda 1",
+        "type": "Amendement",
+        "published_local": "2026-10-21 14:47:11"
+      },
+      {
+        "title": "Addenda 2",
+        "type": "Amendement",
+        "published_local": "2026-10-29 13:22:09"
+      },
+      {
+        "title": "Addenda 3",
+        "type": "Amendement",
+        "published_local": "2026-11-05 11:15:46"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-ec9k95-20176190",
+    "url": "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=22899a9e-499c-4816-8568-699ebfd33c87",
+    "http": 200,
+    "ref": "20176190",
+    "status": "Publié",
+    "deadline": "2026-11-19 Avant 14:00 Heure légale du Québec",
+    "published": "2026-10-13 14:11:14",
+    "observed_utc": "2026-11-11T06:43:32+00:00",
+    "addenda": [
+      {
+        "title": "ADDENDA #01",
+        "type": "Questions/Réponses",
+        "published_local": "2026-10-16 13:43:41"
+      },
+      {
+        "title": "ADDENDA #02",
+        "type": "Amendement",
+        "published_local": "2026-10-29 10:45:30"
+      },
+      {
+        "title": "ADDENDA #03",
+        "type": "Amendement",
+        "published_local": "2026-11-03 16:03:40"
+      },
+      {
+        "title": "ADDENDA #04",
+        "type": "Questions/Réponses",
+        "published_local": "2026-11-06 13:12:32"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-ec9k95-20174906",
+    "url": "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=32be95cf-c4e0-4bc1-b654-f5042d14bf69",
+    "http": 200,
+    "ref": "20174906",
+    "status": "Publié",
+    "deadline": "2026-11-16 Au plus tard 10:00 Heure légale du Québec",
+    "published": "2026-10-09 18:30:32 Heure légale du Québec",
+    "observed_utc": "2026-11-11T06:43:33+00:00",
+    "addenda": []
+  },
+  {
+    "ocid": "ocds-ec9k95-20174306",
+    "url": "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=11a53fa7-0f7c-45b5-af78-4b8b8ef38ff8",
+    "http": 200,
+    "ref": "20174306",
+    "status": "Contrat conclu",
+    "deadline": "2026-10-30 Au plus tard 10:00 Heure légale du Québec",
+    "published": "2026-10-01 15:17:16",
+    "observed_utc": "2026-11-11T06:43:34+00:00",
+    "addenda": [
+      {
+        "title": "Addenda 1 clauses 2.3 et 7",
+        "type": "Amendement",
+        "published_local": "2026-10-09 16:20:20"
+      },
+      {
+        "title": "Addenda 2 2eme visite des lieux",
+        "type": "Amendement",
+        "published_local": "2026-10-16 11:29:39"
+      },
+      {
+        "title": "Addenda 3 questions 1-62",
+        "type": "Questions/Réponses",
+        "published_local": "2026-10-20 12:10:04"
+      },
+      {
+        "title": "Addenda 54671TT_add E-01 SITE 3800 PH1 et PLANS",
+        "type": "Amendement",
+        "published_local": "2026-10-20 12:14:00"
+      },
+      {
+        "title": "Addenda 54671TT_add E-01 SITE 3800 PH1 et PLANS",
+        "type": "Amendement",
+        "published_local": "2026-10-20 12:14:00"
+      },
+      {
+        "title": "Addenda 4 questions 13, 16, 18, 30, 32 à 35, 52 et 54-55",
+        "type": "Questions/Réponses",
+        "published_local": "2026-10-20 13:33:18"
+      },
+      {
+        "title": "Addenda 5 questions 20-23, 25, 27-28, 41,45,49,53,56-61,63-69",
+        "type": "Questions/Réponses",
+        "published_local": "2026-10-21 12:48:53"
+      },
+      {
+        "title": "Addenda 6 questions 24, 70-81 et 83-85",
+        "type": "Questions/Réponses",
+        "published_local": "2026-10-23 14:41:25"
+      },
+      {
+        "title": "Addenda 7 questions 86-94",
+        "type": "Questions/Réponses",
+        "published_local": "2026-10-28 12:17:44"
+      },
+      {
+        "title": "Addenda 8 questions 82 et 95",
+        "type": "Questions/Réponses",
+        "published_local": "2026-10-29 13:33:00"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-ec9k95-20169335",
+    "url": "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=56859988-91fb-4514-a7c6-5a474df522ce",
+    "http": 200,
+    "ref": "20169335",
+    "status": "Contrat conclu",
+    "deadline": "2026-10-26 Avant 11:00 Heure légale du Québec",
+    "published": "2026-09-04 11:18:58",
+    "observed_utc": "2026-11-11T06:43:34+00:00",
+    "addenda": [
+      {
+        "title": "Addenda 1 et annexe 27-SSI-P-26 - Amendement",
+        "type": "Amendement",
+        "published_local": "2026-10-01 13:50:47"
+      },
+      {
+        "title": "Addenda 2 et annexe 27-SSI-P-26",
+        "type": "Amendement",
+        "published_local": "2026-10-16 11:38:49"
+      },
+      {
+        "title": "Addenda 3 et annexe 27-SSI-P-26",
+        "type": "Amendement",
+        "published_local": "2026-10-22 16:06:43"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-ec9k95-20141819",
+    "url": "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=abf26cbd-e969-41c6-a99b-884f35a00795",
+    "http": 200,
+    "ref": "20141819",
+    "status": "Contrat conclu",
+    "deadline": "2026-07-06 Au plus tard 14:00 Heure légale du Québec",
+    "published": "2026-06-03 10:02:55 Heure légale du Québec",
+    "observed_utc": "2026-11-11T06:43:35+00:00",
+    "addenda": [
+      {
+        "title": "Addenda 1",
+        "type": "Questions/Réponses",
+        "published_local": "2026-06-29 14:25:59"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-ec9k95-20179924",
+    "url": "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=3de1f948-3b18-4a90-9d34-8d1427c1542d",
+    "http": 200,
+    "ref": "20179924",
+    "status": "Publié",
+    "deadline": "2026-11-20 Au plus tard 10:00 Heure légale du Québec",
+    "published": "2026-11-02 15:36:24 Heure légale du Québec",
+    "observed_utc": "2026-11-11T06:43:36+00:00",
+    "addenda": []
+  },
+  {
+    "ocid": "ocds-ec9k95-20181184",
+    "url": "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=0a46a45e-0fdd-414b-9669-debb835e6941",
+    "http": 200,
+    "ref": "20181184",
+    "status": "Publié",
+    "deadline": "2026-12-04 Au plus tard 14:00 Heure légale du Québec",
+    "published": "2026-11-04 10:20:55",
+    "observed_utc": "2026-11-11T06:43:37+00:00",
+    "addenda": []
+  },
+  {
+    "ocid": "ocds-ec9k95-20181233",
+    "url": "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=f3dbd43a-2190-47ce-a622-b67a2d8c40c6",
+    "http": 200,
+    "ref": "20181233",
+    "status": "Publié",
+    "deadline": "2026-12-03 Au plus tard 10:00 Heure légale du Québec",
+    "published": "2026-11-04 11:08:17",
+    "observed_utc": "2026-11-11T06:43:37+00:00",
+    "addenda": [
+      {
+        "title": "ADDENDA 01 Architecture",
+        "type": "Amendement",
+        "published_local": "2026-11-10 07:59:29"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-ec9k95-20178261",
+    "url": "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=c1cb8f77-c872-4c70-87b4-f84c84424ccd",
+    "http": 200,
+    "ref": "20178261",
+    "status": "Publié",
+    "deadline": "2026-11-13 Au plus tard 15:00 Heure légale du Québec",
+    "published": "2026-10-22 09:32:50",
+    "observed_utc": "2026-11-11T06:43:38+00:00",
+    "fit": "Low fit",
+    "qualification_note": "Specialized safety-data-sheet software and lifecycle support; no matching product evidenced.",
+    "eligibility": "Unknown",
+    "regions": "Capitale-Nationale",
+    "agreements": "Accord Québec-Ontario (ACCQO), Accord de libre-échange canadien (ALEC)",
+    "addenda": []
+  },
+  {
+    "ocid": "ocds-ec9k95-20175195",
+    "url": "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=07fc4576-b003-4bf1-8b47-6f952f344346",
+    "http": 200,
+    "ref": "20175195",
+    "status": "Publié",
+    "deadline": "2026-12-01 Au plus tard 13:00 Heure légale du Québec",
+    "published": "2026-11-06 16:24:52",
+    "observed_utc": "2026-11-11T06:43:39+00:00",
+    "fit": "Low fit",
+    "qualification_note": "Specialized clinical communications platform; no comparable product or health delivery evidenced.",
+    "eligibility": "Unknown",
+    "regions": "Laurentides",
+    "agreements": "Accord Québec-Ontario (ACCQO), Accord de libre-échange canadien (ALEC)",
+    "addenda": []
+  },
+  {
+    "ocid": "ocds-ec9k95-20181260",
+    "url": "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=21f7773e-9308-438b-b786-45666f518e69",
+    "http": 200,
+    "ref": "20181260",
+    "status": "Publié",
+    "deadline": "2026-11-26 Au plus tard 14:00 Heure légale du Québec",
+    "published": "2026-11-04 12:03:21",
+    "observed_utc": "2026-11-11T06:43:40+00:00",
+    "fit": "Low fit",
+    "qualification_note": "Oracle 24/7 operational support; no evidenced specialty or round-the-clock capacity. Public notice allows a no-Québec-establishment form in the applicable case.",
+    "eligibility": "Unknown",
+    "regions": "Capitale-Nationale, Montréal",
+    "agreements": "Accord Québec-Ontario (ACCQO), Accord de libre-échange canadien (ALEC)",
+    "addenda": [
+      {
+        "title": "Addenda #1",
+        "type": "Amendement",
+        "published_local": "2026-11-06 13:53:00"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-ec9k95-20176320",
+    "url": "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=6d8f8e5a-561b-45d8-905e-002c29a033c6",
+    "http": 200,
+    "ref": "20176320",
+    "status": "Publié",
+    "deadline": "2026-11-23 Au plus tard 13:30 Heure légale du Québec",
+    "published": "2026-10-14 08:59:13",
+    "observed_utc": "2026-11-11T06:43:41+00:00",
+    "fit": "Strong scope match; qualification hold",
+    "qualification_note": "Web maintenance and development. Notice names the Québec–Ontario agreement and requires establishment in a covered territory. French tender documents, tax-attestation route for this bidder, delivery location, staffing and contractual criteria still need verification.",
+    "eligibility": "Unknown",
+    "regions": "Capitale-Nationale",
+    "agreements": "Accord Québec-Ontario (ACCQO), Accord économique et commercial global entre le Canada et l’Union européenne (AECG), Accord de libre-échange canadien (ALEC)",
+    "addenda": [
+      {
+        "title": "Addenda no 1",
+        "type": "Questions/Réponses",
+        "published_local": "2026-10-28 08:37:17"
+      },
+      {
+        "title": "Addenda no 2",
+        "type": "Questions/Réponses",
+        "published_local": "2026-11-03 10:57:23"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-ec9k95-20178768",
+    "url": "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=91a52fbf-615d-412c-9ce9-c09dcdcf83bb",
+    "http": 200,
+    "ref": "20178768",
+    "status": "Publié",
+    "deadline": "2026-11-17 Au plus tard 14:30 Heure légale du Québec",
+    "published": "2026-10-23 12:27:29",
+    "observed_utc": "2026-11-11T06:43:41+00:00",
+    "fit": "Low fit",
+    "qualification_note": "Institutional managed file transfer SaaS and security integrations; no matching product or authorized reseller evidenced.",
+    "eligibility": "Unknown",
+    "regions": "Estrie, Montérégie",
+    "agreements": "Accord Québec-Ontario (ACCQO), Accord économique et commercial global entre le Canada et l’Union européenne (AECG), Accord de libre-échange canadien (ALEC)",
+    "addenda": []
+  },
+  {
+    "ocid": "ocds-ec9k95-20173173",
+    "url": "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=5660f829-d629-407f-a3d5-8c78aa7bbae9",
+    "http": 200,
+    "ref": "20173173",
+    "status": "Publié",
+    "deadline": "2026-11-17 Au plus tard 14:00 Heure légale du Québec",
+    "published": "2026-09-25 11:34:38",
+    "observed_utc": "2026-11-11T06:43:42+00:00",
+    "fit": "Low fit",
+    "qualification_note": "Dedicated electronic-discovery product; publisher or authorized reseller is required. An out-of-Québec establishment form is stated.",
+    "eligibility": "Unknown",
+    "regions": "Capitale-Nationale, Montréal",
+    "agreements": "Accord Québec-Ontario (ACCQO), Accord économique et commercial global entre le Canada et l’Union européenne (AECG), Accord de libre-échange canadien (ALEC)",
+    "addenda": []
+  }
+]

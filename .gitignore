@@ -1,0 +1,14 @@
+# Never commit live source snapshots, SQLite caches, account secrets or client files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+data/*
+!data/.gitkeep
+*.sqlite3
+*.sqlite3-*
+.env*
+*.db
+*.log
+secrets/
+*.csv.tmp

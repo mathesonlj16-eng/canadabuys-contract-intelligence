@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Contract Intelligence</title>
+  <link rel="stylesheet" href="/style.css">
+  <script src="/app.js" defer></script>
+</head>
+<body>
+  <aside class="sidebar">
+    <a class="brand" href="/"><span class="mark" aria-hidden="true">CI</span><strong>Contract<br> Intelligence</strong></a>
+    <nav aria-label="Workspace">
+      <button data-view="all" aria-current="page"><span aria-hidden="true">▤</span> All Contracts</button>
+      <button data-view="recommended"><span aria-hidden="true">◎</span> Recommended</button>
+      <button data-view="pipeline"><span aria-hidden="true">▣</span> My Pipeline</button>
+      <button data-view="analytics"><span aria-hidden="true">▥</span> Research &amp; Analytics</button>
+      <button data-view="health"><span aria-hidden="true">◈</span> Data Health</button>
+    </nav>
+  </aside>
+  <main>
+    <header class="page-head">
+      <div><h1 id="page-title">All Contracts</h1><p id="page-description">Search Canadian procurement notices and your prior research.</p></div>
+      <button type="button" id="reload" class="quiet">Reload view</button>
+    </header>
+    <div class="metrics" id="metrics" aria-label="Directory totals"></div>
+    <p class="feedback" id="feedback" role="status"></p>
+
+    <section id="directory" class="panel" aria-label="Contract directory">
+      <form id="filters">
+        <label class="search">Search <input name="q" type="search" maxlength="120" placeholder="Title, buyer, or solicitation number"></label>
+        <label>Source <select name="source"><option value="">All sources</option><option value="canadabuys">CanadaBuys</option><option value="manual">Prior research</option><option value="demo">Fictional demo</option></select></label>
+        <label>Status <select name="state"><option value="">All statuses</option><option value="active">Active in feed</option><option value="historical">Historical</option><option value="unverified">Needs source recheck</option><option value="demo">Fictional demo</option></select></label>
+        <label>Category <select name="category" id="category"><option value="">All categories</option></select></label>
+      </form>
+      <div class="table-scroll" tabindex="0" aria-label="Scrollable results">
+        <table><thead><tr><th scope="col">Opportunity</th><th scope="col">Status</th><th scope="col">Deadline (ET)</th><th scope="col">Fit / 100</th></tr></thead>
+        <tbody id="results"><tr><td colspan="4">Loading…</td></tr></tbody></table>
+      </div>
+      <div class="pagination">
+        <span id="page-count" aria-live="polite"></span>
+        <div><button id="previous" class="quiet" disabled>Previous</button> <button id="next" class="quiet" disabled>Next</button></div>
+      </div>
+    </section>
+
+    <section id="analytics" hidden>
+      <label class="analytics-filter">Record status <select id="analytics-state"><option value="">All collected records</option><option value="historical">Historical only</option><option value="active">Active in feed</option></select></label>
+      <p class="caption" id="analytics-scope"></p>
+      <div class="cards" id="analytics-cards"></div>
+    </section>
+
+    <section id="health" hidden>
+      <div class="cards">
+        <section class="panel card"><h2>Coverage</h2><p>CanadaBuys Open and New CSV snapshots cover federal government organizations. Provincial, municipal, nonprofit and association notices require separate sources.</p><p>Publication can lag buyer portals. A record missing from the latest snapshots requires a recheck unless its deadline has passed or a terminal status was published.</p><p><a href="https://canadabuys.canada.ca/en/procurement-and-contracting-data" target="_blank" rel="noreferrer">CanadaBuys procurement data ↗</a></p><p>Contains information licensed under the <a href="https://open.canada.ca/en/open-government-licence-canada" target="_blank" rel="noreferrer">Open Government Licence – Canada</a>.</p></section>
+        <section class="panel card"><h2>Last successful refresh</h2><div id="success"></div></section>
+      </div>
+      <section class="panel card"><h2>Email alert coverage audit</h2><p class="caption">Read-only comparison of a dated supplier-alert sample against local SQLite. Vendor dates are unverified and non-federal sources are outside the federal feed.</p><div id="email-audit">Open this view to compare the saved sample.</div></section>
+      <section class="panel card"><h2>Import history</h2><div id="runs"></div></section>
+    </section>
+  </main>
+
+  <dialog id="detail" aria-labelledby="detail-title">
+    <header class="detail-head"><h2 id="detail-title">Contract details</h2><button id="close" class="quiet" type="button" aria-label="Close details">Close</button></header>
+    <div id="detail-body"></div>
+  </dialog>
+</body>
+</html>

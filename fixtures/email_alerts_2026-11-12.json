@@ -1,0 +1,97 @@
+{
+  "description": "Sanitized alert-derived comparison cohort; dates and notice types come from vendor emails and are not buyer verified. No email bodies or personal identifiers.",
+  "observed_date": "2026-11-12",
+  "alerts": [
+    {
+      "platform": "TenderPipe",
+      "reference": "mohawkcollege-M16-197-2026",
+      "buyer": "Mohawk College",
+      "title": "Request for Supplier Qualifications For Privacy Impact Assessment Services",
+      "deadline_reported": "2026-11-19",
+      "scope": "non_federal",
+      "notice_type": "Supplier qualifications"
+    },
+    {
+      "platform": "TenderPipe",
+      "reference": "AC102626",
+      "buyer": "Municipality of the County of Annapolis",
+      "title": "Microsoft 365 Information Governance and Digital Workplace Modernization Initiative",
+      "deadline_reported": "2026-11-26",
+      "scope": "non_federal",
+      "notice_type": "RFP"
+    },
+    {
+      "platform": "TenderPipe",
+      "reference": "sait-SAIT-1150-RFP-ITS-2026-10-JM",
+      "buyer": "Southern Alberta Institute of Technology",
+      "title": "Data Protection & Infrastructure",
+      "deadline_reported": "2026-11-13",
+      "scope": "non_federal",
+      "notice_type": "RFP"
+    },
+    {
+      "platform": "TenderPipe",
+      "reference": "cb-797-56171832",
+      "buyer": "Standards Council of Canada",
+      "title": "Call for Proposals - Advancing Data Governance through Standardization Solutions",
+      "deadline_reported": "2026-11-16",
+      "scope": "federal",
+      "notice_type": "Call for Proposals"
+    },
+    {
+      "platform": "TenderPipe",
+      "reference": "Doc3282378667",
+      "buyer": "Nova Scotia Department of Justice",
+      "title": "RFI - Records Management System & Computer-Aided-Dispatch for Policing Operations",
+      "deadline_reported": "2026-11-16",
+      "scope": "non_federal",
+      "notice_type": "RFI"
+    },
+    {
+      "platform": "Bids & Tenders",
+      "reference": "C3-05-26",
+      "buyer": "City of Hamilton",
+      "title": "Request for Information for Lease Administration and Real Estate Portfolio Management Software",
+      "deadline_reported": "2026-12-16",
+      "scope": "non_federal",
+      "notice_type": "RFI"
+    },
+    {
+      "platform": "Bids & Tenders",
+      "reference": "223-11-26",
+      "buyer": "City of Burnaby",
+      "title": "Check Point Force 9400 Firewall Bundle",
+      "deadline_reported": "2026-11-25",
+      "scope": "non_federal",
+      "notice_type": "RFQ"
+    },
+    {
+      "platform": "Bids & Tenders",
+      "reference": "T-2026-77",
+      "buyer": "Dufferin-Peel Catholic District School Board",
+      "title": "CISCO Maintenance & Support",
+      "deadline_reported": "2026-11-30",
+      "scope": "non_federal",
+      "notice_type": "Tender"
+    },
+    {
+      "platform": "Bids & Tenders",
+      "reference": "203683",
+      "buyer": "EPCOR Canada",
+      "title": "Intelligent Electronic Device Management Software",
+      "deadline_reported": "2026-12-07",
+      "scope": "non_federal",
+      "notice_type": "Tender"
+    },
+    {
+      "platform": "SAP Business Network",
+      "reference": "1110028655",
+      "buyer": "Defence Research and Development Canada",
+      "title": "RFP - Transformation of the HIPLAB Toolbox",
+      "deadline_reported": "2026-11-20",
+      "scope": "federal",
+      "notice_type": "Buyer update",
+      "match_hint": "HIPLAB"
+    }
+  ]
+}

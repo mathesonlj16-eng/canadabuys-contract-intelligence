@@ -1,0 +1,5 @@
+referenceNumber-numeroReference,title-titre-eng,title-titre-fra,publicationDate-datePublication,tenderClosingDate-appelOffresDateCloture,tenderStatus-tenderStatut-eng,contractingEntityName-nomEntitContractante-eng,solicitationNumber-numeroSollicitation,procurementCategory-categorieApprovisionnement,noticeURL-URLavis-eng,tenderDescription-descriptionAppelOffres-eng
+DEMO-001,SYNTHETIC nonprofit resource website,Site fictif,2026-11-10,2026-12-20 14:00:00,Open,FICTIONAL Association,DEMO-1,SRV,,Create an accessible WordPress resource hub with moderated content submission and staff training
+DEMO-002,SYNTHETIC analytics dashboard,Tableau de bord fictif,2026-11-10,2026-12-15 14:00:00,Open,FICTIONAL Data Office,DEMO-2,SRV,,Implement data analytics dashboards and report automation for community programs
+DEMO-003,SYNTHETIC construction contract,Contrat fictif,2026-11-10,2026-12-18 14:00:00,Open,FICTIONAL Public Works,DEMO-3,CNST,,Pour asphalt and construct new road bridge
+DEMO-004,SYNTHETIC cloud integration,Integration fictive,2026-11-10,2026-12-22 14:00:00,Open,FICTIONAL University,DEMO-4,SRV,,API integration and workflow automation for student services

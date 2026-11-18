@@ -1,0 +1,731 @@
+{
+  "cutoff": "2026-11-11T05:00:00+00:00",
+  "notices": [
+    {
+      "stratum": "disputed deadline",
+      "pool_size": 117,
+      "ocid": "ocds-ec9k95-20177056",
+      "projected": {
+        "buyer": "Ville de Brossard",
+        "conflicted_fields": [
+          "closing_raw",
+          "closing_utc"
+        ],
+        "id": "SP-GTER-26-0057 ",
+        "mainProcurementCategory": "works",
+        "notice_links": [
+          "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=71462f50-801c-4342-98dd-0dd045cd827c"
+        ],
+        "opened_raw": "2026-10-16T10:53:13-04:00",
+        "opened_utc": "2026-10-16T14:53:13.000000+00:00",
+        "status": "active",
+        "title": "Travaux d’aménagement dans le cadre du projet Grand parc urbain – Construction d’un chemin d’urgence  et Correction du drainage"
+      },
+      "releases": [
+        {
+          "id": "20261029144429",
+          "date": "2026-10-16T14:53:13.000000+00:00",
+          "closing": "2026-11-05T11:00:00-05:00",
+          "status": "active",
+          "buyer": "Ville de Brossard",
+          "category": "works",
+          "notice_links": [
+            "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=71462f50-801c-4342-98dd-0dd045cd827c"
+          ]
+        },
+        {
+          "id": "20261102210546",
+          "date": "2026-10-16T14:53:13.000000+00:00",
+          "closing": "2026-11-12T11:00:00-05:00",
+          "status": "active",
+          "buyer": "Ville de Brossard",
+          "category": "works",
+          "notice_links": [
+            "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=71462f50-801c-4342-98dd-0dd045cd827c"
+          ]
+        }
+      ]
+    },
+    {
+      "stratum": "disputed deadline",
+      "pool_size": 117,
+      "ocid": "ocds-ec9k95-20175782",
+      "projected": {
+        "buyer": "Assemblée nationale-Direction des ressources financières, de l'approvisionnement et de la vérification",
+        "conflicted_fields": [
+          "closing_raw",
+          "closing_utc"
+        ],
+        "id": "370101688",
+        "mainProcurementCategory": "works",
+        "notice_links": [
+          "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=0b0c2889-0863-4f10-ad41-64d4b3c5406e"
+        ],
+        "opened_raw": "2026-10-09T09:00:57-04:00",
+        "opened_utc": "2026-10-09T13:00:57.000000+00:00",
+        "status": "active",
+        "title": "AOP 370101688 - Remplacement du système de ventilation a-14 et la rénovation de la Salle Louis-Hippolyte-la fontaine"
+      },
+      "releases": [
+        {
+          "id": "20261030181308",
+          "date": "2026-10-09T13:00:57.000000+00:00",
+          "closing": "2026-11-10T11:00:00-05:00",
+          "status": "active",
+          "buyer": "Assemblée nationale-Direction des ressources financières, de l'approvisionnement et de la vérification",
+          "category": "works",
+          "notice_links": [
+            "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=0b0c2889-0863-4f10-ad41-64d4b3c5406e"
+          ]
+        },
+        {
+          "id": "20261106194412",
+          "date": "2026-10-09T13:00:57.000000+00:00",
+          "closing": "2026-11-12T11:00:00-05:00",
+          "status": "active",
+          "buyer": "Assemblée nationale-Direction des ressources financières, de l'approvisionnement et de la vérification",
+          "category": "works",
+          "notice_links": [
+            "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=0b0c2889-0863-4f10-ad41-64d4b3c5406e"
+          ]
+        }
+      ]
+    },
+    {
+      "stratum": "disputed deadline",
+      "pool_size": 117,
+      "ocid": "ocds-ec9k95-20171444",
+      "projected": {
+        "buyer": "Ville de Pointe-Claire.",
+        "conflicted_fields": [
+          "closing_raw",
+          "closing_utc"
+        ],
+        "id": "TPV270001",
+        "mainProcurementCategory": "goods",
+        "notice_links": [
+          "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=962e9257-4209-46df-8c3f-3b4477abd8b8"
+        ],
+        "opened_raw": "2026-09-17T08:23:51-04:00",
+        "opened_utc": "2026-09-17T12:23:51.000000+00:00",
+        "status": "active",
+        "title": "Fourniture et livraison de pièces d’égout et d’aqueduc pour l’année 2027 "
+      },
+      "releases": [
+        {
+          "id": "20261030142124",
+          "date": "2026-09-17T12:23:51.000000+00:00",
+          "closing": "2026-11-10T11:00:00-05:00",
+          "status": "active",
+          "buyer": "Ville de Pointe-Claire.",
+          "category": "goods",
+          "notice_links": [
+            "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=962e9257-4209-46df-8c3f-3b4477abd8b8"
+          ]
+        },
+        {
+          "id": "20261105145826",
+          "date": "2026-09-17T12:23:51.000000+00:00",
+          "closing": "2026-11-12T11:00:00-05:00",
+          "status": "active",
+          "buyer": "Ville de Pointe-Claire.",
+          "category": "goods",
+          "notice_links": [
+            "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=962e9257-4209-46df-8c3f-3b4477abd8b8"
+          ]
+        }
+      ]
+    },
+    {
+      "stratum": "disputed deadline",
+      "pool_size": 117,
+      "ocid": "ocds-ec9k95-20176161",
+      "projected": {
+        "buyer": "Société québécoise des infrastructures",
+        "conflicted_fields": [
+          "closing_raw",
+          "closing_utc"
+        ],
+        "id": "44548341",
+        "mainProcurementCategory": "works",
+        "notice_links": [
+          "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=984afb18-4bfb-4c0c-8f85-c09dd2e4be4e"
+        ],
+        "opened_raw": "2026-10-13T13:56:37-04:00",
+        "opened_utc": "2026-10-13T17:56:37.000000+00:00",
+        "status": "active",
+        "title": "Lot 4.610 - Céramique - Restauration, mise aux normes et réaménagement au 12, rue Saint-Louis, Québec (Québec) G1R 5L3"
+      },
+      "releases": [
+        {
+          "id": "20261029172209",
+          "date": "2026-10-13T17:56:37.000000+00:00",
+          "closing": "2026-11-10T15:00:00-05:00",
+          "status": "active",
+          "buyer": "Société québécoise des infrastructures",
+          "category": "works",
+          "notice_links": [
+            "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=984afb18-4bfb-4c0c-8f85-c09dd2e4be4e"
+          ]
+        },
+        {
+          "id": "20261105161546",
+          "date": "2026-10-13T17:56:37.000000+00:00",
+          "closing": "2026-11-17T15:00:00-05:00",
+          "status": "active",
+          "buyer": "Société québécoise des infrastructures",
+          "category": "works",
+          "notice_links": [
+            "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=984afb18-4bfb-4c0c-8f85-c09dd2e4be4e"
+          ]
+        }
+      ]
+    },
+    {
+      "stratum": "disputed deadline",
+      "pool_size": 117,
+      "ocid": "ocds-ec9k95-20176190",
+      "projected": {
+        "buyer": "Institut national de la recherche scientifique (INRS)",
+        "conflicted_fields": [
+          "closing_raw",
+          "closing_utc"
+        ],
+        "id": "AOP20261013_EMT_TGS-LL",
+        "mainProcurementCategory": "goods",
+        "notice_links": [
+          "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=22899a9e-499c-4816-8568-699ebfd33c87"
+        ],
+        "opened_raw": "2026-10-13T14:11:14-04:00",
+        "opened_utc": "2026-10-13T18:11:14.000000+00:00",
+        "status": "active",
+        "title": "Acquisition d’un serveur GPU destiné à un réseau d'accès radio ouvert 5G (O-RAN)"
+      },
+      "releases": [
+        {
+          "id": "20261029181505",
+          "date": "2026-10-13T18:11:14.000000+00:00",
+          "closing": "2026-11-12T14:00:00-05:00",
+          "status": "active",
+          "buyer": "Institut national de la recherche scientifique (INRS)",
+          "category": "goods",
+          "notice_links": [
+            "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=22899a9e-499c-4816-8568-699ebfd33c87"
+          ]
+        },
+        {
+          "id": "20261106181232",
+          "date": "2026-10-13T18:11:14.000000+00:00",
+          "closing": "2026-11-19T14:00:00-05:00",
+          "status": "active",
+          "buyer": "Institut national de la recherche scientifique (INRS)",
+          "category": "goods",
+          "notice_links": [
+            "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=22899a9e-499c-4816-8568-699ebfd33c87"
+          ]
+        }
+      ]
+    },
+    {
+      "stratum": "disputed deadline",
+      "pool_size": 117,
+      "ocid": "ocds-ec9k95-20174906",
+      "projected": {
+        "buyer": "Santé Québec Estrie - Centre hospitalier universitaire de Sherbrooke",
+        "conflicted_fields": [
+          "closing_raw",
+          "closing_utc"
+        ],
+        "id": "2027-0171",
+        "mainProcurementCategory": "goods",
+        "notice_links": [
+          "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=32be95cf-c4e0-4bc1-b654-f5042d14bf69"
+        ],
+        "opened_raw": "2026-10-09T18:30:32-04:00",
+        "opened_utc": "2026-10-09T22:30:32.000000+00:00",
+        "status": "active",
+        "title": "Équipements de cuisson de type « Combi »"
+      },
+      "releases": [
+        {
+          "id": "20261028163057",
+          "date": "2026-10-09T22:30:32.000000+00:00",
+          "closing": "2026-11-04T14:00:00-05:00",
+          "status": "active",
+          "buyer": "Santé Québec Estrie - Centre hospitalier universitaire de Sherbrooke",
+          "category": "goods",
+          "notice_links": [
+            "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=32be95cf-c4e0-4bc1-b654-f5042d14bf69"
+          ]
+        },
+        {
+          "id": "20261106213734",
+          "date": "2026-10-09T22:30:32.000000+00:00",
+          "closing": "2026-11-16T10:00:00-05:00",
+          "status": "active",
+          "buyer": "Santé Québec Estrie - Centre hospitalier universitaire de Sherbrooke",
+          "category": "goods",
+          "notice_links": [
+            "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=32be95cf-c4e0-4bc1-b654-f5042d14bf69"
+          ]
+        }
+      ]
+    },
+    {
+      "stratum": "other conflict",
+      "pool_size": 33,
+      "ocid": "ocds-ec9k95-20174306",
+      "projected": {
+        "buyer": "Collège de Maisonneuve",
+        "closing_raw": "2026-10-30T10:00:00-04:00",
+        "closing_utc": "2026-10-30T14:00:00.000000+00:00",
+        "conflicted_fields": [
+          "status"
+        ],
+        "id": "27013",
+        "mainProcurementCategory": "works",
+        "notice_links": [
+          "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=11a53fa7-0f7c-45b5-af78-4b8b8ef38ff8"
+        ],
+        "opened_raw": "2026-10-01T15:17:16-04:00",
+        "opened_utc": "2026-10-01T19:17:16.000000+00:00",
+        "title": "AMÉNAGEMENT DE SITES SECTEURS P1N ET P1B – 793- 3800 SHERBROOKE EST"
+      },
+      "releases": [
+        {
+          "id": "20261030220332",
+          "date": "2026-10-01T19:17:16.000000+00:00",
+          "closing": "2026-10-30T10:00:00-04:00",
+          "status": "active",
+          "buyer": "Collège de Maisonneuve",
+          "category": "works",
+          "notice_links": [
+            "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=11a53fa7-0f7c-45b5-af78-4b8b8ef38ff8"
+          ]
+        },
+        {
+          "id": "20261103185601",
+          "date": "2026-10-01T19:17:16.000000+00:00",
+          "closing": "2026-10-30T10:00:00-04:00",
+          "status": "complete",
+          "buyer": "Collège de Maisonneuve",
+          "category": "works",
+          "notice_links": [
+            "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=11a53fa7-0f7c-45b5-af78-4b8b8ef38ff8"
+          ]
+        }
+      ]
+    },
+    {
+      "stratum": "other conflict",
+      "pool_size": 33,
+      "ocid": "ocds-ec9k95-20169335",
+      "projected": {
+        "buyer": "Ville de Cowansville",
+        "closing_raw": "2026-10-26T11:00:00-04:00",
+        "closing_utc": "2026-10-26T15:00:00.000000+00:00",
+        "conflicted_fields": [
+          "status"
+        ],
+        "id": "27-SSI-P-26",
+        "mainProcurementCategory": "goods",
+        "notice_links": [
+          "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=56859988-91fb-4514-a7c6-5a474df522ce"
+        ],
+        "opened_raw": "2026-09-04T11:18:58-04:00",
+        "opened_utc": "2026-09-04T15:18:58.000000+00:00",
+        "title": "Acquisition d'un camion autopompe"
+      },
+      "releases": [
+        {
+          "id": "20261027173157",
+          "date": "2026-09-04T15:18:58.000000+00:00",
+          "closing": "2026-10-26T11:00:00-04:00",
+          "status": "active",
+          "buyer": "Ville de Cowansville",
+          "category": "goods",
+          "notice_links": [
+            "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=56859988-91fb-4514-a7c6-5a474df522ce"
+          ]
+        },
+        {
+          "id": "20261105195631",
+          "date": "2026-09-04T15:18:58.000000+00:00",
+          "closing": "2026-10-26T11:00:00-04:00",
+          "status": "complete",
+          "buyer": "Ville de Cowansville",
+          "category": "goods",
+          "notice_links": [
+            "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=56859988-91fb-4514-a7c6-5a474df522ce"
+          ]
+        }
+      ]
+    },
+    {
+      "stratum": "other conflict",
+      "pool_size": 33,
+      "ocid": "ocds-ec9k95-20141819",
+      "projected": {
+        "buyer": "Ministère des Transports et de la Mobilité durable (Direction générale de la gestion contractuelle)",
+        "closing_raw": "2026-07-06T14:00:00-04:00",
+        "closing_utc": "2026-07-06T18:00:00.000000+00:00",
+        "conflicted_fields": [
+          "status"
+        ],
+        "id": "2509-26-AP08",
+        "mainProcurementCategory": "goods",
+        "notice_links": [
+          "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=abf26cbd-e969-41c6-a99b-884f35a00795"
+        ],
+        "opened_raw": "2026-06-03T10:02:55-04:00",
+        "opened_utc": "2026-06-03T14:02:55.000000+00:00",
+        "title": "2509-26-AP08 - Contrat à commandes de Supports cédant sous l’impact L6X de type 1, 2 et 4 pour diverses régions,"
+      },
+      "releases": [
+        {
+          "id": "20261030181655",
+          "date": "2026-06-03T14:02:55.000000+00:00",
+          "closing": "2026-07-06T14:00:00-04:00",
+          "status": "active",
+          "buyer": "Ministère des Transports et de la Mobilité durable (Direction générale de la gestion contractuelle)",
+          "category": "goods",
+          "notice_links": [
+            "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=abf26cbd-e969-41c6-a99b-884f35a00795"
+          ]
+        },
+        {
+          "id": "20261105160507",
+          "date": "2026-06-03T14:02:55.000000+00:00",
+          "closing": "2026-07-06T14:00:00-04:00",
+          "status": "complete",
+          "buyer": "Ministère des Transports et de la Mobilité durable (Direction générale de la gestion contractuelle)",
+          "category": "goods",
+          "notice_links": [
+            "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=abf26cbd-e969-41c6-a99b-884f35a00795"
+          ]
+        }
+      ]
+    },
+    {
+      "stratum": "control",
+      "pool_size": 917,
+      "ocid": "ocds-ec9k95-20179924",
+      "projected": {
+        "buyer": "OH Rocher-Percé",
+        "closing_raw": "2026-11-20T10:00:00-05:00",
+        "closing_utc": "2026-11-20T15:00:00.000000+00:00",
+        "id": "26_PRHLMV3_SINISTRE 3119",
+        "mainProcurementCategory": "works",
+        "notice_links": [
+          "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=3de1f948-3b18-4a90-9d34-8d1427c1542d"
+        ],
+        "opened_raw": "2026-11-02T15:36:24-05:00",
+        "opened_utc": "2026-11-02T20:36:24.000000+00:00",
+        "status": "active",
+        "title": "RÉNOVATION SINISTRE 15 RUE DE L'ÉGLISE, CHANDLER"
+      },
+      "releases": [
+        {
+          "id": "20261102203625",
+          "date": "2026-11-02T20:36:24.000000+00:00",
+          "closing": "2026-11-20T10:00:00-05:00",
+          "status": "active",
+          "buyer": "OH Rocher-Percé",
+          "category": "works",
+          "notice_links": [
+            "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=3de1f948-3b18-4a90-9d34-8d1427c1542d"
+          ]
+        }
+      ]
+    },
+    {
+      "stratum": "control",
+      "pool_size": 917,
+      "ocid": "ocds-ec9k95-20181184",
+      "projected": {
+        "buyer": "Ministère des Transports et de la Mobilité durable (Direction générale de la gestion contractuelle)",
+        "closing_raw": "2026-12-04T14:00:00-05:00",
+        "closing_utc": "2026-12-04T19:00:00.000000+00:00",
+        "id": "9001-25-0001",
+        "mainProcurementCategory": "works",
+        "notice_links": [
+          "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=0a46a45e-0fdd-414b-9669-debb835e6941"
+        ],
+        "opened_raw": "2026-11-04T10:20:55-05:00",
+        "opened_utc": "2026-11-04T15:20:55.000000+00:00",
+        "status": "active",
+        "title": "9001-25-0001 Reconstruction du ponceau 0343-0, au-dessus du ruisseau Leclerc, sous la route 212 (Cookshire-Eaton)"
+      },
+      "releases": [
+        {
+          "id": "20261104152055",
+          "date": "2026-11-04T15:20:55.000000+00:00",
+          "closing": "2026-12-04T14:00:00-05:00",
+          "status": "active",
+          "buyer": "Ministère des Transports et de la Mobilité durable (Direction générale de la gestion contractuelle)",
+          "category": "works",
+          "notice_links": [
+            "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=0a46a45e-0fdd-414b-9669-debb835e6941"
+          ]
+        }
+      ]
+    },
+    {
+      "stratum": "control",
+      "pool_size": 917,
+      "ocid": "ocds-ec9k95-20181233",
+      "projected": {
+        "buyer": "Cégep de Saint-Laurent.",
+        "closing_raw": "2026-12-03T10:00:00-05:00",
+        "closing_utc": "2026-12-03T15:00:00.000000+00:00",
+        "id": "462-RM-2026",
+        "mainProcurementCategory": "works",
+        "notice_links": [
+          "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=f3dbd43a-2190-47ce-a622-b67a2d8c40c6"
+        ],
+        "opened_raw": "2026-11-04T11:08:17-05:00",
+        "opened_utc": "2026-11-04T16:08:17.000000+00:00",
+        "status": "active",
+        "title": "REMPLACEMENT DU PLANCHER DE GYMNASE "
+      },
+      "releases": [
+        {
+          "id": "20261104160817",
+          "date": "2026-11-04T16:08:17.000000+00:00",
+          "closing": "2026-12-03T10:00:00-05:00",
+          "status": "active",
+          "buyer": "Cégep de Saint-Laurent.",
+          "category": "works",
+          "notice_links": [
+            "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=f3dbd43a-2190-47ce-a622-b67a2d8c40c6"
+          ]
+        }
+      ]
+    },
+    {
+      "stratum": "technology title",
+      "pool_size": 12,
+      "ocid": "ocds-ec9k95-20178261",
+      "projected": {
+        "buyer": "Institut national de santé publique du Québec.",
+        "closing_raw": "2026-11-13T15:00:00-05:00",
+        "closing_utc": "2026-11-13T20:00:00.000000+00:00",
+        "id": "INSPQ-10819",
+        "mainProcurementCategory": "goods",
+        "notice_links": [
+          "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=c1cb8f77-c872-4c70-87b4-f84c84424ccd"
+        ],
+        "opened_raw": "2026-10-22T09:32:50-04:00",
+        "opened_utc": "2026-10-22T13:32:50.000000+00:00",
+        "status": "active",
+        "title": "Acquisition d’une solution logicielle de fiches de données de sécurité (FDS)"
+      },
+      "releases": [
+        {
+          "id": "20261030154245",
+          "date": "2026-10-22T13:32:50.000000+00:00",
+          "closing": "2026-11-13T15:00:00-05:00",
+          "status": "active",
+          "buyer": "Institut national de santé publique du Québec.",
+          "category": "goods",
+          "notice_links": [
+            "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=c1cb8f77-c872-4c70-87b4-f84c84424ccd"
+          ]
+        },
+        {
+          "id": "20261105200631",
+          "date": "2026-10-22T13:32:50.000000+00:00",
+          "closing": "2026-11-13T15:00:00-05:00",
+          "status": "active",
+          "buyer": "Institut national de santé publique du Québec.",
+          "category": "goods",
+          "notice_links": [
+            "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=c1cb8f77-c872-4c70-87b4-f84c84424ccd"
+          ]
+        }
+      ]
+    },
+    {
+      "stratum": "technology title",
+      "pool_size": 12,
+      "ocid": "ocds-ec9k95-20175195",
+      "projected": {
+        "buyer": "Santé Québec Laurentides",
+        "closing_raw": "2026-12-01T13:00:00-05:00",
+        "closing_utc": "2026-12-01T18:00:00.000000+00:00",
+        "id": "FX-AO-20260810",
+        "mainProcurementCategory": "services",
+        "notice_links": [
+          "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=07fc4576-b003-4bf1-8b47-6f952f344346"
+        ],
+        "opened_raw": "2026-11-06T16:24:52-05:00",
+        "opened_utc": "2026-11-06T21:24:52.000000+00:00",
+        "status": "active",
+        "title": "Solution logicielle de gestion et de distribution des communications cliniques"
+      },
+      "releases": [
+        {
+          "id": "20261106212452",
+          "date": "2026-11-06T21:24:52.000000+00:00",
+          "closing": "2026-12-01T13:00:00-05:00",
+          "status": "active",
+          "buyer": "Santé Québec Laurentides",
+          "category": "services",
+          "notice_links": [
+            "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=07fc4576-b003-4bf1-8b47-6f952f344346"
+          ]
+        }
+      ]
+    },
+    {
+      "stratum": "technology title",
+      "pool_size": 12,
+      "ocid": "ocds-ec9k95-20181260",
+      "projected": {
+        "buyer": "Tribunal administratif du travail",
+        "closing_raw": "2026-11-26T14:00:00-05:00",
+        "closing_utc": "2026-11-26T19:00:00.000000+00:00",
+        "id": "TAT-AOP-202611-02",
+        "mainProcurementCategory": "services",
+        "notice_links": [
+          "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=21f7773e-9308-438b-b786-45666f518e69"
+        ],
+        "opened_raw": "2026-11-04T12:03:21-05:00",
+        "opened_utc": "2026-11-04T17:03:21.000000+00:00",
+        "status": "active",
+        "title": "Soutien des bases de données Oracle"
+      },
+      "releases": [
+        {
+          "id": "20261106184600",
+          "date": "2026-11-04T17:03:21.000000+00:00",
+          "closing": "2026-11-26T14:00:00-05:00",
+          "status": "active",
+          "buyer": "Tribunal administratif du travail",
+          "category": "services",
+          "notice_links": [
+            "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=21f7773e-9308-438b-b786-45666f518e69"
+          ]
+        }
+      ]
+    },
+    {
+      "stratum": "technology title",
+      "pool_size": 12,
+      "ocid": "ocds-ec9k95-20176320",
+      "projected": {
+        "buyer": "Cégep Garneau",
+        "closing_raw": "2026-11-23T13:30:00-05:00",
+        "closing_utc": "2026-11-23T18:30:00.000000+00:00",
+        "id": "2627-43-AOP-1",
+        "mainProcurementCategory": "services",
+        "notice_links": [
+          "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=6d8f8e5a-561b-45d8-905e-002c29a033c6"
+        ],
+        "opened_raw": "2026-10-14T08:59:13-04:00",
+        "opened_utc": "2026-10-14T12:59:13.000000+00:00",
+        "status": "active",
+        "title": "Entretien et évolution du site Web principal, des sites satellites ainsi que des sites Web des autres directions du Cégep Garneau "
+      },
+      "releases": [
+        {
+          "id": "20261028123717",
+          "date": "2026-10-14T12:59:13.000000+00:00",
+          "closing": "2026-11-23T13:30:00-05:00",
+          "status": "active",
+          "buyer": "Cégep Garneau",
+          "category": "services",
+          "notice_links": [
+            "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=6d8f8e5a-561b-45d8-905e-002c29a033c6"
+          ]
+        },
+        {
+          "id": "20261103155723",
+          "date": "2026-10-14T12:59:13.000000+00:00",
+          "closing": "2026-11-23T13:30:00-05:00",
+          "status": "active",
+          "buyer": "Cégep Garneau",
+          "category": "services",
+          "notice_links": [
+            "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=6d8f8e5a-561b-45d8-905e-002c29a033c6"
+          ]
+        }
+      ]
+    },
+    {
+      "stratum": "technology title",
+      "pool_size": 12,
+      "ocid": "ocds-ec9k95-20178768",
+      "projected": {
+        "buyer": "Université de Sherbrooke -Service des ressources financières-  Section de l'approvisionnement",
+        "closing_raw": "2026-11-17T14:30:00-05:00",
+        "closing_utc": "2026-11-17T19:30:00.000000+00:00",
+        "id": "R-0884-26",
+        "mainProcurementCategory": "goods",
+        "notice_links": [
+          "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=91a52fbf-615d-412c-9ce9-c09dcdcf83bb"
+        ],
+        "opened_raw": "2026-10-23T12:27:29-04:00",
+        "opened_utc": "2026-10-23T16:27:29.000000+00:00",
+        "status": "active",
+        "title": "Acquisition d'un logiciel d'échanges sécurisés - SaaS MFT"
+      },
+      "releases": [
+        {
+          "id": "20261030124839",
+          "date": "2026-10-23T16:27:29.000000+00:00",
+          "closing": "2026-11-17T14:30:00-05:00",
+          "status": "active",
+          "buyer": "Université de Sherbrooke -Service des ressources financières-  Section de l'approvisionnement",
+          "category": "goods",
+          "notice_links": [
+            "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=91a52fbf-615d-412c-9ce9-c09dcdcf83bb"
+          ]
+        },
+        {
+          "id": "20261106160240",
+          "date": "2026-10-23T16:27:29.000000+00:00",
+          "closing": "2026-11-17T14:30:00-05:00",
+          "status": "active",
+          "buyer": "Université de Sherbrooke -Service des ressources financières-  Section de l'approvisionnement",
+          "category": "goods",
+          "notice_links": [
+            "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=91a52fbf-615d-412c-9ce9-c09dcdcf83bb"
+          ]
+        }
+      ]
+    },
+    {
+      "stratum": "technology title",
+      "pool_size": 12,
+      "ocid": "ocds-ec9k95-20173173",
+      "projected": {
+        "buyer": "Autorité des marchés financiers.",
+        "closing_raw": "2026-11-17T14:00:00-05:00",
+        "closing_utc": "2026-11-17T19:00:00.000000+00:00",
+        "id": "2026AOP07",
+        "mainProcurementCategory": "services",
+        "notice_links": [
+          "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=5660f829-d629-407f-a3d5-8c78aa7bbae9"
+        ],
+        "opened_raw": "2026-09-25T11:34:38-04:00",
+        "opened_utc": "2026-09-25T15:34:38.000000+00:00",
+        "status": "active",
+        "title": "Acquisition et implantation d’une solution infonuagique de revue et d’analyse de la preuve électronique et de soutien aux litiges"
+      },
+      "releases": [
+        {
+          "id": "20261105133449",
+          "date": "2026-09-25T15:34:38.000000+00:00",
+          "closing": "2026-11-17T14:00:00-05:00",
+          "status": "active",
+          "buyer": "Autorité des marchés financiers.",
+          "category": "services",
+          "notice_links": [
+            "https://seao.gouv.qc.ca/avis-resultat-recherche/consulter?ItemId=5660f829-d629-407f-a3d5-8c78aa7bbae9"
+          ]
+        }
+      ]
+    }
+  ]
+}
